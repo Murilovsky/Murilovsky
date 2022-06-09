@@ -1,7 +1,9 @@
 ## Heeey there 👋
 
-#### 🔨 I’m currently working on Growers🍊, a godot game 
-#### 📖 I’m currently learning FullStack Development
+- 🔨 I’m currently working on Growers🍊, a godot game 
+- 📖 I’m currently learning FullStack Development
+
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilovsky&hide=contribs,prs&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilovsky&theme=github_dark&layout=compact)](https://github.com/Murilovsky)
