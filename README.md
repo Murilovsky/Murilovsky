@@ -4,21 +4,22 @@
 - 📖 I’m currently learning FullStack Development
 
 ---
+<section style="width:100%;">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilovsky&hide=contribs,prs&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilovsky&hide=prs&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilovsky&theme=github_dark&layout=compact)](https://github.com/Murilovsky)
 
+</section>
 
 <section style="display:flex;flex-direction:row;margin:0 auto;justify-content:space-around;">
    <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
    <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
-   <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
    <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
    <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-   <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
    <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </section>
 
