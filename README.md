@@ -5,10 +5,16 @@
 
 ---
 <section style="width:100%;">
+<div style='width:60%;'>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilovsky&hide=prs&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)
+
+</div>
+<div style='width:40%;'>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilovsky&theme=github_dark&layout=compact)](https://github.com/Murilovsky)
 
+</div>
 </section>
 
 <section style="display:flex;flex-direction:row;margin:0 auto;justify-content:space-around;">
