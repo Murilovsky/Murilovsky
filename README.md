@@ -6,7 +6,7 @@
 
 ---
 
-<div style='margin-bottom:20px;'>
+<div style='margin-bottom:20px;width:100%;'>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" style="width:50%;" src="https://github-readme-stats.vercel.app/api?username=Murilovsky&hide=prs&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" />
 </a>
