@@ -6,12 +6,12 @@
 
 ---
 
-<div style="display:flex;justify-content:space-between;width:100%;">
+<div style="width:100%;">
 <a href="https://github.com/Murilovsky">
-  <img align="center" style="flex-shrink:1;" src="https://github-readme-stats.vercel.app/api?username=Murilovsky&hide=prs&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Murilovsky&hide=prs&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" />
 </a>
 <a href="https://github.com/Murilovsky">
-  <img align="center" style="flex-shrink:1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilovsky&theme=github_dark&layout=compact&hide=c,c%2B%2B,cmake&langs=8" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilovsky&theme=github_dark&layout=compact&hide=c,c%2B%2B,cmake&langs=8" />
 </a>
 </div>
 
