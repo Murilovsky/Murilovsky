@@ -6,12 +6,12 @@
 
 ---
 
-<div style="display:flex;">
+<div style="width:100%;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="width:54%;" src="https://github-readme-stats.vercel.app/api?username=Murilovsky&hide=prs&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Murilovsky&hide=prs&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" style="width:45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilovsky&theme=github_dark&layout=compact&hide=c,c%2B%2B,cmake&langs=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilovsky&theme=github_dark&layout=compact&hide=c,c%2B%2B,cmake&langs=8" />
 </a>
 </div>
 
