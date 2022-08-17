@@ -6,18 +6,18 @@
 
 ---
 
-<div style="width:100%;">
+<div align="center">
 <a href="https://github.com/Murilovsky">
-  <img src="https://github-readme-stats.vercel.app/api?username=Murilovsky&hide=prs&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilovsky&hide=prs&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
 </a>
 <a href="https://github.com/Murilovsky">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilovsky&theme=github_dark&layout=compact&hide=c,c%2B%2B,cmake&langs=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilovsky&theme=radical&layout=compact&langs_count=8" />
 </a>
 </div>
 
 ---
 
-<section style="display:flex;flex-direction:row;margin:0 auto;justify-content:space-around;">
+<section style="display: flex ;flex-direction: row ;margin: 0 auto ;justify-content: space-around ;">
    <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
    <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
    <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
