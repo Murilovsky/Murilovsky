@@ -17,7 +17,7 @@
 
 ---
 
-<section style="display: flex ;flex-direction: row ;margin: 0 auto ;justify-content: space-around ;">
+<div align="center">
    <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
    <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
    <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -29,17 +29,17 @@
    <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</section>
+</div>
 
 
 
-<section>
+<div align="center">
   <a href="mailto:murilovsky2030@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="http://murilogama.artstation.com"><img align="center" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/murilovsky2030/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="http://opaogamestudio.itch.io"><img align="center" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
   <a href="#"><img align="center" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"></a>
-</section>
+</div>
 <!--
 **Murilovsky/Murilovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
