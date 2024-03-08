@@ -1,10 +1,10 @@
 ## Heeey there 👋
-
+<!---
 - 💻 I’m currently working on **Growers**🍊, a godot game 
 - 📖 Learning **FullStack Development**
 - 🧡 Open Source is a form of love
 
----
+--->
 
 <div align="center">
 <a href="https://github.com/Murilovsky">
